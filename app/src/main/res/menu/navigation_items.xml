@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_chats"
+        android:title="Chats"
+        android:icon="@drawable/messages"/>
+    <item
+        android:id="@+id/nav_status"
+        android:title="Status"
+        android:icon="@drawable/menu"/>
+    <item
+        android:id="@+id/nav_calls"
+        android:title="Calls"
+        android:icon="@drawable/call"/>
+
+</menu>
